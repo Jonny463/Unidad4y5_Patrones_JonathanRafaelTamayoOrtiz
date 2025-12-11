@@ -2,4 +2,4 @@
 
 Programa que permite el control de un grupo de robots (object pool) por un solo coordinador (singleton). El coordinador interactua con cada robot individual por medio de un intermediario (proxy), ademas de contar con historial de modificaciones realizadas (memento).
 
-El proyecto se presenta organizado en cuatro capas, de acuerdo a su respectiva funcion.
+El proyecto se presenta organizado en cuatro capas, de acuerdo a su respectiva funcion (capas).
